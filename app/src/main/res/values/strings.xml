@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Espresso UI Test Examples</string>
+
+    <string name="text_next">Next</string>
+    <string name="text_start">Start</string>
+    <string name="text_next_fragment">Next fragment</string>
+    <string name="text_next_activity">Next Activity</string>
+    <string name="text_secondary_fragment">This is Secondary Fragment</string>
+    <string name="text_mainActivity">MainActivity</string>
+    <string name="text_back">Back</string>
+    <string name="text_secondaryActivity">SecondaryActivity</string>
+</resources>
