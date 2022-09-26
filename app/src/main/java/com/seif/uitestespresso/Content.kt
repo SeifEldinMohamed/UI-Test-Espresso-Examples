@@ -43,3 +43,14 @@ package com.seif.uitestespresso
 // 13- Creating Custom Test Rules:
 //      TestRule
 //      TestWatcher
+
+
+/**
+ // withId(R.id.my_view) is a ViewMatcher
+// click() is a ViewAction
+// matches(isDisplayed()) is a ViewAssertion
+
+onView(withId(R.id.my_view))
+.perform(click())
+.check(matches(isDisplayed()))
+ **/
